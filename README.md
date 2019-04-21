@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This small project is called **Songs**. There are essentially four songs displayed at the lefthand side of the screen and we have four corresponding **Select** buttons at the opposite side. Once an user clicks on one of these buttons, the **details** of that song will be shown right next to the select button. Upon doing that, users will know the song's title and duration. 
+This small project is called **Songs** built with redux library. There are essentially four songs displayed at the lefthand side of the screen and we have four corresponding **Select** buttons at the opposite side. Once an user clicks on one of these buttons, the **details** of that song will be shown right next to the select button. Upon doing that, users will know the song's title and duration. 
 
 ## Available Scripts 
 
